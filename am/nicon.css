@@ -1,0 +1,9 @@
+.firstThird {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.firstThird > * {
+  flex: 0 0 30%;
+}
